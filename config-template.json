@@ -1,0 +1,21 @@
+{
+    "token": "token",
+    "defaultColor": "2700",
+    "dusk": {
+        "colorStart": "2700",
+        "colorEnd": "6000",
+        "steps": 50,
+        "duration": 1,
+        "turnOffRange": 20
+    },
+    "devices": [
+        {
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            },
+            "id": "id",
+            "name": "name"
+        }
+    ]
+}
