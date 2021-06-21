@@ -1,2 +1,2 @@
-# LIFXbot
-Telegram bot for LIFX smart bulbs
+# LIFXgo
+LIFX smart bulbs controlled in Go
